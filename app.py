@@ -16,7 +16,7 @@ import requests
 import base64
 
 # Set OpenAI API Key (replace with your own)
-os.environ['OPENAI_API_KEY'] = "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"
+os.environ['OPENAI_API_KEY'] = "YOUR_API_KEY"
 
 # Function to read and encode the image file
 def get_base64_image(image_path):
