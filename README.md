@@ -76,3 +76,5 @@ streamlit run app.py
 ## Contribution
 I welcome contributions! Feel free to submit issues, feature requests, or pull requests to improve the assistant. I'm excited about the potential applications of this tool and would love to hear your feedback or suggestions. 🚀
 
+### Screenshot:
+![Web Interface](https://github.com/user-attachments/assets/b1d284cd-bd9d-4198-a4f3-87043d6e8813)
