@@ -1,6 +1,6 @@
 # AI-Powered Document Insight Assistant! 📄🤖
 
-Document Intelligence Assistant is a sophisticated AI-powered solution designed to enhance document and dataset analysis. This assistant leverages state-of-the-art technologies, including OpenAI's paid API and GPT-4, to extract insights from PDFs and answer user queries in real-time, revolutionizing how we interact with documents,   answer queries about various file formats. It supports real-time data analysis, providing an intelligent, user-friendly interface for seamless exploration of information.
+Document Insight Assistant is a sophisticated AI-powered solution designed to enhance document and dataset analysis. This assistant leverages state-of-the-art technologies, including OpenAI's paid API and GPT-4, to extract insights from PDFs and answer user queries in real-time, revolutionizing how we interact with documents,   answer queries about various file formats. It supports real-time data analysis, providing an intelligent, user-friendly interface for seamless exploration of information.
 
 ---
 
